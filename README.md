@@ -1,9 +1,7 @@
 
 item 0
-Project Overview - Agent Shutton
-NOTE: This is a sample submssion for the Kaggle Agents Intensive Capstone project. Use this as a point of reference for structuring your submission. Avoid simply copying and reusing logic and or concepts.
+Project Overview - Agent 
 
-NOTE: This sample submission was inspired and lifted from the official ADK-Samples repository. Special thanks to Pier Paolo Ippolito for his contributions.
 
 This project contains the core logic for Agent Shutton, a multi-agent system designed to assist users in creating various types of blog posts. The agent is built using Google Agent Development Kit (ADK) and follows a modular architecture.
 
